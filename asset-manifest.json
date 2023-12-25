@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e61b86ce.css",
+    "main.js": "/Portfolio/static/js/main.caf97ed6.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Portfolio/static/js/787.d4aba7ab.chunk.js",
+    "static/media/background header2.jpg": "/Portfolio/static/media/background header2.46d9d3f722187ce6417e.jpg",
+    "static/media/instagramLogo.png": "/Portfolio/static/media/instagramLogo.b04a414745cff566c72f.png",
+    "static/media/pcb board.png": "/Portfolio/static/media/pcb board.a8d814ce876106c5b9e3.png",
+    "static/media/gmailLogo.png": "/Portfolio/static/media/gmailLogo.af622e50e3a4da0c013d.png",
+    "static/media/bishop logo.jpg": "/Portfolio/static/media/bishop logo.e1f0f08305bd7c0b2365.jpg",
+    "static/media/linkedinLogo.png": "/Portfolio/static/media/linkedinLogo.dee31da8e306dbdc1aba.png",
+    "static/media/profile pic placeholder2.png": "/Portfolio/static/media/profile pic placeholder2.131416b42c81615aeb5d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e61b86ce.css.map": "/Portfolio/static/css/main.e61b86ce.css.map",
+    "main.caf97ed6.js.map": "/Portfolio/static/js/main.caf97ed6.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Portfolio/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61b86ce.css",
+    "static/js/main.caf97ed6.js"
+  ]
+}
