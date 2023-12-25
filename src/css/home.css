@@ -1,0 +1,231 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+
+}
+nav ul#navLeft {
+    display: block;
+    z-index: 9999;
+    list-style-type: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding-top: 50px;
+    overflow: hidden;
+    background-color: white;
+}
+nav ul#navLeft li.nav {
+    float: right;
+}
+nav ul#navLeft li.nav a {
+    display: inline-block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul#navLeft li.nav a#Projects {
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 60px;
+}
+nav ul#navLeft li.nav a#About {
+    margin-right: 40px;
+}
+nav ul#navLeft li.nav a#Contact {
+    margin-right: 40px;
+}
+header {
+    display: block;
+    background-image: url("../assets/background header2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 230px;
+    padding-bottom: 700px;
+    font-family: Verdana;
+    position: relative;
+    width: 100%;
+}
+h1 {
+    display: inline-block;
+    color: #E2E2E2;
+    position:absolute;
+    left: 7%;
+    width: 650px;
+    font-size: 100px;
+}
+div#profile{
+    float: right;
+    position: relative;
+    margin-right: 10%;
+    margin-bottom: 50px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    top: 100px;
+    overflow: hidden;
+}
+img.profilePic {
+    width: auto;
+    height: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+header p {
+    display: block;
+    width: 700px;
+    overflow-wrap: break-word;
+    color: #666;
+    font-size: 20px;
+    position: absolute;
+    left: 7%;
+    top: 65%
+}
+article#projects {
+    display: block;
+}
+div#pageBreak1 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+}
+img.pageBreak {
+    height: auto;
+    width: 300px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+h2{
+    font-family: Verdana;
+    text-align: center;
+    color: rgb(151, 151, 151);
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+div#bishopMuseum {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana;
+    padding-bottom: 100px;
+}
+img#bishopLogo {
+    height: auto;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+p#bMHeader1 {
+    font-size: 30px;
+    color: #666;
+    margin-bottom: 10px;
+}
+p#bMHeader2 {
+    color: rgb(223, 145, 0);
+    margin-bottom: 40px;
+}
+ul#bMList {
+    list-style-type: circle;
+    display: block;
+    width: 600px;
+    overflow-wrap: break-word;
+}
+ul#bMList li {
+    margin-bottom: 10px;
+}
+div#PCBBoard {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana;
+    margin-bottom: 100px;
+    padding-left: 15px;
+}
+img#pcbBoardPic {
+    height: auto;
+    width: 250px;
+    margin-left: 125px;
+    margin-top: 50px;
+}
+p#PBHeader1 {
+    font-size: 30px;
+    color: #666;
+    margin-bottom: 10px;
+}
+p#PBHeader2 {
+    color: rgb(223, 145, 0);
+    margin-bottom: 40px;
+}
+ul#PBList {
+    list-style-type: circle;
+    display: block;
+    width: 600px;
+    overflow-wrap: break-word;
+}
+ul#PBList li {
+    margin-bottom: 10px;
+}
+footer {
+    display: block;
+    font-family: Verdana;
+    background-color: rgb(45, 42, 50);
+    margin: 0;
+    width: 100%;
+    padding-bottom: 80px;
+}
+footer a {
+    text-decoration: none;
+    color: #666;
+}
+div#footerLinks {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+div#linkedIn {
+    display: inline-block;
+    margin-right: 50px;
+}
+img#linkedInLogo {
+    width: auto;
+    height: 30px;
+}
+p#LinkedInp{
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+}
+div#email {
+    display: inline-block;
+    margin-right: 50px;
+
+}
+img#emailLogo {
+    width: auto;
+    height: 30px;
+}
+p#Emailp {
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+}
+div#instagram {
+    display: inline-block;
+}
+img#instagramLogo {
+    width: auto;
+    height: 30px;
+}
+p#Instagramp {
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+}
+div#copyright {
+    display: block;
+    color: #aba7a7;
+    text-align: center;
+    font-size: 15px;
+}
